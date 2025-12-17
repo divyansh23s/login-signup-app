@@ -2,7 +2,8 @@
 A full-stack authentication system built with HTML, CSS, JavaScript, Node.js, Express, and MongoDB.
 This project implements secure user registration and login with password hashing using bcrypt. It’s designed with a clean, user-friendly interface and modern backend architecture.
 
-🚀 Features
+🚀 Features:
+
 📝 User registration (Signup)
 
 🔑 User login
@@ -19,15 +20,18 @@ This project implements secure user registration and login with password hashing
 
 🎨 Clean and animated UI for toggling between login and signup
 
-🧰 Tech Stack
-🖥️ Frontend
+🧰 Tech Stack:
+
+🖥️ Frontend-
+
 HTML5
 
 CSS3
 
 Vanilla JavaScript
 
-⚙️ Backend
+⚙️ Backend-
+
 Node.js
 
 Express.js
@@ -45,22 +49,35 @@ CORS
 📁 Project Structure
 
 login-signup-app/
+
 ├── backend/
+
 │   ├── models/
+
 │   │   └── user.js
+
 │   ├── routes/
+
 │   │   └── auth.js
+
 │   ├── .env
+
 │   ├── server.js
+
 │   └── package.json
 │
 ├── frontend/
+
 │   └── public/
+
 │       ├── index.html
+
 │       ├── form1.css
+
 │       └── form1.js
 │
 ├── .gitignore
+
 └── README.md
 
 ⚙️ Setup Instructions
