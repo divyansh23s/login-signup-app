@@ -91,6 +91,7 @@ cd login-signup-app
 
 cd backend
 npm install
+
 3️⃣ Configure Environment Variables
 
 Create a .env file inside the backend/ directory and add the following:
@@ -128,7 +129,6 @@ GET	/api/auth/all	Retrieve all users (for testing)
 👤 Author
 
 Developed by: Divyansh
-
 💻 Passionate about full-stack web development and secure applications.
 
 🗃️ GitHub Upload Commands
