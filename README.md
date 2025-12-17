@@ -65,41 +65,36 @@ login-signup-app/
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
-bash
 git clone https://github.com/yourusername/login-signup-app.git
 cd login-signup-app
 2️⃣ Install Backend Dependencies
-bash
 cd backend
 npm install
 3️⃣ Configure Environment Variables
 Create a .env file inside the backend/ directory and add the following:
-
-text
 MONGO_URI=mongodb://127.0.0.1:27017/loginApp
 PORT=5001
 4️⃣ Start the Server
 bash
 npm run dev
 Server will run at:
-
-text
 http://localhost:5001
 🔗 API Endpoints
 Method	Endpoint	Description
 POST	/api/auth/register	Register a new user
 POST	/api/auth/login	Login an existing user
 GET	/api/auth/all	Retrieve all users (for testing)
-🧩 Future Improvements
-🔐 JWT-based authentication
 
-🧱 Protected routes
+🧩 Future Improvements:
+  🔐 JWT-based authentication
 
-🔁 Password reset feature
+  🧱 Protected routes
 
-✉️ Email verification
+  🔁 Password reset feature
 
-⚛️ Frontend integration with React
+  ✉️ Email verification
+
+  ⚛️ Frontend integration with React
 
 👤 Author
 Developed by: Divyansh
