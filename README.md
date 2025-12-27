@@ -51,33 +51,21 @@ CORS
 login-signup-app/
 
 ├── backend/
-
 │   ├── models/
-
 │   │   └── user.js
-
 │   ├── routes/
-
 │   │   └── auth.js
-
 │   ├── .env
-
 │   ├── server.js
-
 │   └── package.json
 │
 ├── frontend/
-
 │   └── public/
-
 │       ├── index.html
-
 │       ├── form1.css
-
 │       └── form1.js
 │
 ├── .gitignore
-
 └── README.md
 ```
 
