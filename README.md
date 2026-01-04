@@ -116,10 +116,7 @@ GET	/api/auth/all	Retrieve all users (for testing)
 
   ⚛️ Frontend integration with React
 
-👤 Author
 
-Developed by: Divyansh
-💻 Passionate about full-stack web development and secure applications.
 ```
 🗃️ GitHub Upload Commands
 
@@ -135,3 +132,7 @@ git remote add origin <your-repo-url>
 
 git push -u origin main
 ```
+👤 Author
+
+Developed by: Divyansh
+💻 Passionate about full-stack web development and secure applications.
