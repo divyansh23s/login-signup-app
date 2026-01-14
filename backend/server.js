@@ -5,7 +5,6 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 require('dotenv').config({ path: __dirname + '/.env' });
 
-const authRoutes = require('./routes/auth');
 
 const app = express();
 app.use(cors());
