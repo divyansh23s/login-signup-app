@@ -20,7 +20,6 @@ router.post('/register', async (req, res) => {
     res.status(500).json({ message: 'Server error' });
   }
 });
-
 // Login
 router.post('/login', async (req, res) => {
   const { email, password } = req.body;
